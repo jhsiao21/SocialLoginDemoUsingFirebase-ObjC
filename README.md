@@ -5,7 +5,7 @@ A Demo using Firebase to intergate Facebook Login and Google Login written in Ob
 Find the .plist file in the Supporting File folder in your XCode Project.
 1. Right-click your .plist file and choose "Open As Source Code"
 2. Copy and paste the followin XML sinppet into the body of your file
-```code <dict>...</dict>```
+```<dict>...</dict>```
 ```code
 <key>CFBundleURLTypes</key>
 	<array>
