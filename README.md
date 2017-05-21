@@ -41,8 +41,10 @@ Find the .plist file in the Supporting File folder in your XCode Project.
 Drag the GoogleService-Info.plist you just downloaded into the root of your XCode Project.
 
 ## Screen
-<div align="center">
+<div>
   <img src="https://github.com/jhsiao21/SocialLoginDemoUsingFirebase-ObjC/blob/master/screen.jpg"> 
   </div>
-
+<div>
+  <img src="https://github.com/jhsiao21/SocialLoginDemoUsingFirebase-ObjC/blob/master/screenshot2.jpg"> 
+  </div>
 
