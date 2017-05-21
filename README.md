@@ -1,10 +1,11 @@
 # SocialLoginDemoUsingFirebase-ObjC
 A Demo using Firebase to intergate Facebook Login and Google Login written in Objective-C.
 
-# Configure the .plist file#
+## Configure the .plist file
 Find the .plist file in the Supporting File folder in your XCode Project.
 1. Right-click your .plist file and choose "Open As Source Code"
-2. Copy and paste the followin XML sinppet into the body of your file(<dict>...</dict>)
+2. Copy and paste the followin XML sinppet into the body of your file
+```code <dict>...</dict>```
 ```code
 <key>CFBundleURLTypes</key>
 	<array>
@@ -36,10 +37,10 @@ Find the .plist file in the Supporting File folder in your XCode Project.
 	</array>
 ```
 
-# Add the google configuration file to your project
+## Add the google configuration file to your project
 Drag the GoogleService-Info.plist you just downloaded into the root of your XCode Project.
 
-# Screen
+## Screen
 <div align="center">
   <img src="https://github.com/jhsiao21/SocialLoginDemoUsingFirebase-ObjC/blob/master/screen.jpg"> 
   </div>
