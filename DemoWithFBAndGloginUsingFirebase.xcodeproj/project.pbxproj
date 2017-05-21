@@ -93,8 +93,6 @@
 				025E18091ECFEA7900FF4092 /* Main.storyboard */,
 				025E180F1ECFEA7900FF4092 /* Assets.xcassets */,
 				025E18111ECFEA7900FF4092 /* LaunchScreen.storyboard */,
-				025E18141ECFEA7900FF4092 /* Info.plist */,
-				02FB1D441ED1658200A2EDD0 /* GoogleService-Info.plist */,
 				025E180C1ECFEA7900FF4092 /* DemoWithFBAndGloginUsingFirebase.xcdatamodeld */,
 				025E18001ECFEA7900FF4092 /* Supporting Files */,
 			);
@@ -104,6 +102,8 @@
 		025E18001ECFEA7900FF4092 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				025E18141ECFEA7900FF4092 /* Info.plist */,
+				02FB1D441ED1658200A2EDD0 /* GoogleService-Info.plist */,
 				025E18011ECFEA7900FF4092 /* main.m */,
 			);
 			name = "Supporting Files";
